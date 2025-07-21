@@ -13,5 +13,5 @@ query_hash ```42c6ec100f5e57a1fe09be16cd3a7021```
 ## Story List and First Fifty Viewers
 query_hash ```52a36e788a02a3c612742ed5146f1676```
 注意：脚本在following_list_debug.js里（这个是正确的，可以直接下载csv文件）
-此仓库在基础上改进
+此仓库在https://github.com/yc5/instagram-crawler.git基础上改进
 
